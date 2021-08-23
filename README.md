@@ -109,7 +109,7 @@ Same as above except that it will only show which files have been obfuscated by 
 
 Detect obfuscator
 
-    de4dot -d file1.dll file2.dll file3.dll
+    de4dot -d file1.dll file2.dll file3.dll 
 
 Preserving metadata tokens
 --------------------------
